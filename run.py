@@ -4,7 +4,7 @@ import subprocess
 
 
 tests = ["shearingsheet", "outersolarsystem_ias15","outersolarsystem_whfast"]
-datafile = "rebound_2.19.2.txt"
+datafile = "rebound_particlepointers.txt"
 
 for test in tests:
     print("Working on %s" %test)
