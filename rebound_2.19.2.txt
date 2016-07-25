@@ -1,0 +1,3 @@
+shearingsheet	2016/07/25	11:52:34	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	7.86225295	
+outersolarsystem_ias15	2016/07/25	11:53:13	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	33.49948716	
+outersolarsystem_whfast	2016/07/25	11:53:21	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	3.10121202	
