@@ -7,3 +7,6 @@ outersolarsystem_whfast	2016/07/25	11:58:02	Darwin	Intel(R) Xeon(R) CPU E5-2697 
 shearingsheet	2016/07/25	12:04:22	Linux	model name	: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz	6.19644475	
 outersolarsystem_ias15	2016/07/25	12:04:58	Linux	model name	: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz	27.72025180	
 outersolarsystem_whfast	2016/07/25	12:05:09	Linux	model name	: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz	3.38792181	
+shearingsheet	2016/07/25	13:11:04	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	8.58922505	
+outersolarsystem_ias15	2016/07/25	13:11:43	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	34.40374207	
+outersolarsystem_whfast	2016/07/25	13:11:51	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	3.07136011	
