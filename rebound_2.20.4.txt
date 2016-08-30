@@ -1,0 +1,3 @@
+shearingsheet	2016/08/30	15:53:26	air.hanno-rein.de	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	7.72071099	
+outersolarsystem_ias15	2016/08/30	15:54:03	air.hanno-rein.de	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	32.18028402	
+outersolarsystem_whfast	2016/08/30	15:54:12	air.hanno-rein.de	Darwin	Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz	3.25437284	
