@@ -1,0 +1,6 @@
+shearingsheet	2017/03/30	09:20:50	macpro.local	Darwin	Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz	0.00413704	
+outersolarsystem_ias15	2017/03/30	09:20:50	macpro.local	Darwin	Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz	0.00267100	
+outersolarsystem_whfast	2017/03/30	09:20:50	macpro.local	Darwin	Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz	0.00266910	
+shearingsheet	2017/03/30	09:21:51	macpro.local	Darwin	Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz	8.80680394	
+outersolarsystem_ias15	2017/03/30	09:22:16	macpro.local	Darwin	Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz	20.57111883	
+outersolarsystem_whfast	2017/03/30	09:22:23	macpro.local	Darwin	Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz	2.30768585	
